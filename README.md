@@ -17,8 +17,7 @@ For the previous game, BGEE, it's here: [BGEE_AI_Denoised_Areas](https://github.
 
 [Beamdog forum discussion](https://forums.beamdog.com/discussion/83893/mod-alpha-ai-denoised-areas)
 
-~~As for the BGEE version, there are problems related to the division of the areas into tiles with noticeable vertical and horizontal lines for some areas.~~
-Fixed! Shout-out to [Argent77](https://github.com/Argent77)
+As for the BGEE version, there are problems related to the division of the areas into tiles with noticeable vertical and horizontal lines for some areas.
 
 200% zoom Original
 ![image](https://user-images.githubusercontent.com/39462014/163726544-375569bd-f695-4c29-ad71-085615f30f11.png)
