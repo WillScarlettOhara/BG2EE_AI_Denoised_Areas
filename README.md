@@ -1,5 +1,5 @@
 # BG2EE_AI_Denoised_Areas
-Mod for Baldur's Gate 2 EE that increases the quality of the game areas
+## Mod for Baldur's Gate 2 EE that increases the quality of the game areas
 
 For the previous game, BGEE, it's here: [BGEE_AI_Denoised_Areas](https://github.com/WillScarlettOhara/BGEE_AI_Denoised_Areas)
 
