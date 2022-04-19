@@ -1,15 +1,14 @@
 # BG2EE_AI_Denoised_Areas
 Mod for Baldur's Gate 2 EE that increases the quality of the game areas
 
-**!! Slowly treating each area. Last commit was AR0011 to AR0900N. 141/353 done.**
-
+**!! Consider all areas without water or animations (e.g. fireplaces, doors, flags) as 100% done.**
 **Expect some visible tile edges at some places in areas with water or animations (e.g. fireplaces, doors, flags).
 The correction of these issues will come slowly but surely because it is a rather tedious process.**
 
 **Install:** Simply put the downloaded zip in your Baldur's Gate Enhanced Edition folder.
 TIS and PVRZ files must be placed in the override folder.
 
-**Disk size:** Undetermined for the moment (less than 700MB)
+**Disk size:** 441MB
 
 For the previous game, BGEE, it's here: [BGEE_AI_Denoised_Areas](https://github.com/WillScarlettOhara/BGEE_AI_Denoised_Areas)
 
