@@ -11,14 +11,14 @@ TIS and PVRZ files must be placed in the override folder.
 
 **Disk size:** Undetermined for the moment (less than 700MB)
 
+For the previous game, BGEE, it's here: [BGEE_AI_Denoised_Areas](https://github.com/WillScarlettOhara/BGEE_AI_Denoised_Areas)
+
+**[Beamdog forum discussion](https://forums.beamdog.com/discussion/83893/mod-alpha-ai-denoised-areas)**
+
 Original
 ![A050400](https://user-images.githubusercontent.com/39462014/163726413-63bd8b1a-61d0-4f83-9a5d-33b7dc1560b1.PNG)
 Modded
 ![A050400](https://user-images.githubusercontent.com/39462014/163726405-30b2227c-1054-473b-9ece-bb5031be2199.png)
-
-For the previous game, BGEE, it's here: [BGEE_AI_Denoised_Areas](https://github.com/WillScarlettOhara/BGEE_AI_Denoised_Areas)
-
-**[Beamdog forum discussion](https://forums.beamdog.com/discussion/83893/mod-alpha-ai-denoised-areas)**
 
 200% zoom Original
 ![image](https://user-images.githubusercontent.com/39462014/163726544-375569bd-f695-4c29-ad71-085615f30f11.png)
