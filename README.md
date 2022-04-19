@@ -1,7 +1,7 @@
 # BG2EE_AI_Denoised_Areas
 Mod for Baldur's Gate 2 EE that increases the quality of the game areas
 
-**!! Slowly treating each areas. Last commit was AR0011 to AR0900N. 141/353 done.**
+**!! Slowly treating each area. Last commit was AR0011 to AR0900N. 141/353 done.**
 
 **Expect some visible tile edges at some places in areas with water or animations (e.g. fireplaces, doors, flags).
 The correction of these areas will come slowly but surely because it is a rather tedious process.**
