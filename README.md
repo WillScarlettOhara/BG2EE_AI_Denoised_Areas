@@ -5,7 +5,7 @@ Mod for Baldur's Gate 2 EE that increases the quality of the game areas
 **Expect some visible tile edges at some places in areas with water or animations (e.g. fireplaces, doors, flags).
 The correction of these issues will come slowly but surely because it is a rather tedious process.**
 
-**Install:** Simply extract the downloaded zip in your *Baldur's Gate II Enhanced Edition installation folder*. Then execute *...\Baldur's Gate II Enhanced Edition\setup-BGEE_AI_Denoised_Areas.exe*
+**Install:** Simply extract the downloaded zip in your *Baldur's Gate II Enhanced Edition* installation folder. Then execute *...\Baldur's Gate II Enhanced Edition\setup-BGEE_AI_Denoised_Areas.exe*
 
 **Disk size:** 441MB
 
