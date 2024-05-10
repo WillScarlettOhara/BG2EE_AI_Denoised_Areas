@@ -8,7 +8,7 @@ VERSION ~220506~
 
 BEGIN ~BG2EE_AI_Denoised_Areas~
 
-REQUIRE_PREDICATE GAME_IS ~bg2ee~ @1003
+REQUIRE_PREDICATE GAME_IS ~bg2ee eet~ @1003
 
 //**************************************************
 // Dump everything into the override
